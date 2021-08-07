@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @edsUlalan
+- 👋 Hi, My name's Eddie but most people call me Eds
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Ruby on Rails and React JS
 
